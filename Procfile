@@ -1,0 +1,1 @@
+worker: python livegram_bot.py
